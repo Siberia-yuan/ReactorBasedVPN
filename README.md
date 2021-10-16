@@ -8,13 +8,13 @@ $ make
 ```
 
 ## http代理服务器的使用
-‘’‘
-./ReactorBasedVPN #服务端开启监听
-’‘’
+```
+$ ./ReactorBasedVPN #服务端开启监听
+```
 或者
-‘’‘
-nohup ./ReactorBasedVPN #在后台运行
-’‘’
+```
+$ nohup ./ReactorBasedVPN #在后台运行
+```
 
 ## 设置代理服务器ip以及端口8888为代理ip以及代理端口进行网页请求访问
 代理服务器接收代理请求
